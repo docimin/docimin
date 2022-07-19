@@ -16,8 +16,6 @@ jobs:
         with:
           # Your GitHub token
           # The following scopes are required:
-          #  - read:user
-          #  - read:org
           #  - public_access (default scope)
           #  - repo
           # The following additional scopes may be required:
@@ -63,9 +61,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
           plugin_traffic: yes
           repositories_affiliations: 
           repositories_forks: yes
