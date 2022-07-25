@@ -462,7 +462,7 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.15474356152322255"/>
+                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.2759026687598116"/>
                                     </g>
                                     <g>
                                         <text dx="108" dy="80" text-anchor="middle" class="ct-label">JavaScript</text>
@@ -2135,7 +2135,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 17:07:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 18:07:38 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
