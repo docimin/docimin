@@ -1,5 +1,7 @@
 # Hi, I'm Faye 👋
 
+JB: 26032023/11503714
+
 I'm a freelancer in Programming, Web Applications and Game Development. Living in Germany, I've been programming for about 6+ years. Outside of that, I'm either working, gaming or hating my life.
 
 ![](https://komarev.com/ghpvc/?username=docimin)
