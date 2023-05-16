@@ -191,7 +191,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.44m added, 3.99m removed
+                                    2.79m added, 2.18m removed
                                 </div>
                             </section>
                             <section>
@@ -245,14 +245,14 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.1408123041783" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="144.1408123041783" y="0" width="122.11021879070775" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="266.25103109488606" y="0" width="93.25048021823235" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.5015113131184" y="0" width="61.284532684484674" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="420.7860439976031" y="0" width="16.980335372785774" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="437.76637937038885" y="0" width="10.776920282909987" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="448.54329965329885" y="0" width="7.272865554436917" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.81616520773576" y="0" width="4.183834792264242" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.13753500102604" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="144.13753500102604" y="0" width="122.10744239311033" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="266.24497739413636" y="0" width="93.25881893464489" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.5037963287813" y="0" width="61.283139269330825" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="420.7869355981121" y="0" width="16.979949294021857" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="437.76688489213393" y="0" width="10.77667525005461" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="448.5435601421886" y="0" width="7.2727001926297605" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.8162603348183" y="0" width="4.183739665181674" height="8" fill="#44a51c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2036,7 +2036,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 401m repositories</span>
+                                    <span class="gh">ranked 4.65m out of 401m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2127,7 +2127,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2023, 17:07:13 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 18:07:20 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
