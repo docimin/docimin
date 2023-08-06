@@ -191,7 +191,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    12.4m added, 9.06m removed
+                                    11.2m added, 7.62m removed
                                 </div>
                             </section>
                             <section>
@@ -245,14 +245,14 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.07760829002217" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="280.07760829002217" y="0" width="80.93173496258498" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="361.00934325260715" y="0" width="40.878102165316" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="401.8874454179232" y="0" width="29.050458192790146" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="430.9379036107133" y="0" width="14.579809718191928" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="445.51771332890524" y="0" width="7.878736182380543" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="453.39644951128577" y="0" width="4.039682573103428" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.4361320843892" y="0" width="2.5638679156107846" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.08699845868875" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="280.08699845868875" y="0" width="80.92751112677138" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="361.0145095854601" y="0" width="40.87596873283741" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="401.89047831829754" y="0" width="29.04894204630233" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="430.93942036459987" y="0" width="14.579048796379594" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="445.51846916097946" y="0" width="7.878324990305289" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="453.3967941512847" y="0" width="4.039471741642372" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.43626589292705" y="0" width="2.5637341070729063" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1419,7 +1419,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2023, 23:06:26 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Aug 2023, 00:06:46 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
