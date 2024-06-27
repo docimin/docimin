@@ -191,7 +191,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.22m added, 438k removed
+                                    4.78m added, 2.90m removed
                                 </div>
                             </section>
                             <section>
@@ -245,14 +245,14 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.0634064020534" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="233.0634064020534" y="0" width="62.65092577501264" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="295.714332177066" y="0" width="59.10184048874117" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="354.8161726658072" y="0" width="44.459343077039755" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="399.27551574284695" y="0" width="28.50840730916247" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="427.7839230520094" y="0" width="22.197412602238316" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.98133565424774" y="0" width="6.188909449562849" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.17024510381054" y="0" width="3.8297548961894297" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.0602854781818" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="233.0602854781818" y="0" width="62.65004149101387" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="295.71032696919565" y="0" width="59.107330309556815" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="354.81765727875245" y="0" width="44.45871555741107" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="399.27637283616355" y="0" width="28.508004928381947" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="427.78437776454547" y="0" width="22.197099297741445" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.9814770622869" y="0" width="6.1888220964467" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.1702991587336" y="0" width="3.829700841266345" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1864,7 +1864,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.46m out of 139m users</span>
+                                    <span class="gh">ranked 2.47m out of 139m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -2275,7 +2275,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.53m out of 205m repositories</span>
+                                    <span class="gh">ranked 3.53m out of 191m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -2316,7 +2316,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.54m out of 205m repositories</span>
+                                    <span class="gh">ranked 2.54m out of 191m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2407,7 +2407,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2024, 20:07:44 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2024, 21:07:13 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
