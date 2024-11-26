@@ -191,7 +191,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.61m added, 1.73m removed
+                                    2.52m added, 1.19m removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    122 views in last two weeks
+                                    107 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -357,7 +357,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 82 commits)</small>
+                    <small class="h-details">(computed from last 81 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -484,8 +484,8 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,90.385L29.565,105L49.13,75.769L68.696,61.154L88.261,61.154L107.826,90.385L127.391,10L146.957,97.692L166.522,105L186.087,105L205.652,105L225.217,83.077L244.783,97.692L264.348,97.692L283.913,61.154L303.478,83.077L323.043,75.769L342.609,46.538L362.174,90.385L381.739,53.846L401.304,97.692L420.87,68.462L440.435,75.769L460,83.077" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,83.077L440.435,75.769L420.87,68.462L401.304,97.692L381.739,53.846L362.174,90.385L342.609,46.538L323.043,75.769L303.478,83.077L283.913,61.154L264.348,97.692L244.783,97.692L225.217,83.077L205.652,105L186.087,105L166.522,105L146.957,97.692L127.391,10L107.826,90.385L88.261,61.154L68.696,61.154L49.13,75.769L29.565,105L10,90.385Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,90.385L29.565,105L49.13,75.769L68.696,61.154L88.261,61.154L107.826,90.385L127.391,10L146.957,97.692L166.522,105L186.087,105L205.652,105L225.217,83.077L244.783,97.692L264.348,97.692L283.913,61.154L303.478,83.077L323.043,75.769L342.609,53.846L362.174,90.385L381.739,53.846L401.304,97.692L420.87,68.462L440.435,75.769L460,83.077" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,83.077L440.435,75.769L420.87,68.462L401.304,97.692L381.739,53.846L362.174,90.385L342.609,53.846L323.043,75.769L303.478,83.077L283.913,61.154L264.348,97.692L244.783,97.692L225.217,83.077L205.652,105L186.087,105L166.522,105L146.957,97.692L127.391,10L107.826,90.385L88.261,61.154L68.696,61.154L49.13,75.769L29.565,105L10,90.385Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="90.38461538461537" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc"/>
@@ -504,7 +504,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="61.153846153846146" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="303.4782608695652" cy="83.07692307692307" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="323.04347826086956" cy="75.76923076923077" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="46.53846153846153" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="53.846153846153854" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="90.38461538461537" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="381.7391304347826" cy="53.846153846153854" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="401.30434782608694" cy="97.69230769230771" r="2" fill="#106cbc"/>
@@ -530,7 +530,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="61.153846153846146" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="303.4782608695652" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">3</text>
                                 <text transform="translate(10,6)" x="323.04347826086956" y="75.76923076923077" fill="rgba(127, 127, 127, .8)">4</text>
-                                <text transform="translate(10,6)" x="342.60869565217394" y="46.53846153846153" fill="rgba(127, 127, 127, .8)">8</text>
+                                <text transform="translate(10,6)" x="342.60869565217394" y="53.846153846153854" fill="rgba(127, 127, 127, .8)">7</text>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="90.38461538461537" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="381.7391304347826" y="53.846153846153854" fill="rgba(127, 127, 127, .8)">7</text>
                                 <text transform="translate(10,6)" x="401.30434782608694" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">1</text>
@@ -595,12 +595,12 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,70L41,10L72,60L103,75L134,65L165,10L196,35" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,35L165,10L134,65L103,75L72,60L41,10L10,70Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,70L41,10L72,65L103,75L134,65L165,10L196,35" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,35L165,10L134,65L103,75L72,65L41,10L10,70Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="70" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="10" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="60.00000000000001" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="65" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="75" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="65" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="10" r="2" fill="#106cbc"/>
@@ -609,7 +609,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <text transform="translate(10,6)" x="10" y="70" fill="rgba(127, 127, 127, .8)">7</text>
                                     <text transform="translate(10,6)" x="41" y="10" fill="rgba(127, 127, 127, .8)">19</text>
-                                    <text transform="translate(10,6)" x="72" y="60.00000000000001" fill="rgba(127, 127, 127, .8)">9</text>
+                                    <text transform="translate(10,6)" x="72" y="65" fill="rgba(127, 127, 127, .8)">8</text>
                                     <text transform="translate(10,6)" x="103" y="75" fill="rgba(127, 127, 127, .8)">6</text>
                                     <text transform="translate(10,6)" x="134" y="65" fill="rgba(127, 127, 127, .8)">8</text>
                                     <text transform="translate(10,6)" x="165" y="10" fill="rgba(127, 127, 127, .8)">19</text>
@@ -1758,7 +1758,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.33949349760437 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.42436687200547 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1858,7 +1858,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.10m out of 150m users</span>
+                                    <span class="gh">ranked 2.10m out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -2068,7 +2068,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 573k out of 150m users</span>
+                                    <span class="gh">ranked 573k out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -2225,7 +2225,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.29m out of 213m repositories</span>
+                                    <span class="gh">ranked 2.29m out of 188m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -2310,7 +2310,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.96m out of 213m repositories</span>
+                                    <span class="gh">ranked 1.96m out of 188m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
@@ -2401,7 +2401,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2024, 17:09:36 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2024, 18:07:37 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
