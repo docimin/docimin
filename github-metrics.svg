@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -108,7 +108,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            143 issue comments
+                            144 issue comments
                         </div>
                     </section>
                     <section>
@@ -191,7 +191,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.66m added, 2.17m removed
+                                    4.75m added, 3.28m removed
                                 </div>
                             </section>
                             <section>
@@ -245,14 +245,14 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.7217063966937" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="218.7217063966937" y="0" width="83.74479790091463" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="302.46650429760837" y="0" width="58.72238303666056" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="361.18888733426894" y="0" width="41.67268491057791" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="402.86157224484685" y="0" width="26.708820011781583" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="429.57039225662845" y="0" width="21.030774876166667" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="450.6011671327951" y="0" width="5.8108304543627565" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.4119975871579" y="0" width="3.5880024128421852" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.69711115809608" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="218.69711115809608" y="0" width="83.78710776865331" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="302.4842189267494" y="0" width="58.71577970932922" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="361.1999986360786" y="0" width="41.66799882045331" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="402.8679974565319" y="0" width="26.70581660708219" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="429.57381406361407" y="0" width="21.028409967194012" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="450.60222403080815" y="0" width="5.810177026937422" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.4124010577455" y="0" width="3.5875989422544388" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -361,7 +361,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 14:00</li>
+                        <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -488,8 +488,8 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,50.714L205.652,91.429L225.217,91.429L244.783,77.857L264.348,50.714L283.913,10L303.478,23.571L323.043,105L342.609,91.429L362.174,37.143L381.739,64.286L401.304,10L420.87,105L440.435,37.143L460,91.429" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,91.429L440.435,37.143L420.87,105L401.304,10L381.739,64.286L362.174,37.143L342.609,91.429L323.043,105L303.478,23.571L283.913,10L264.348,50.714L244.783,77.857L225.217,91.429L205.652,91.429L186.087,50.714L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,50.714L205.652,91.429L225.217,91.429L244.783,77.857L264.348,37.143L283.913,23.571L303.478,23.571L323.043,105L342.609,91.429L362.174,37.143L381.739,64.286L401.304,10L420.87,105L440.435,37.143L460,91.429" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,91.429L440.435,37.143L420.87,105L401.304,10L381.739,64.286L362.174,37.143L342.609,91.429L323.043,105L303.478,23.571L283.913,23.571L264.348,37.143L244.783,77.857L225.217,91.429L205.652,91.429L186.087,50.714L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc"/>
@@ -504,8 +504,8 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="225.2173913043478" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="244.7826086956522" cy="77.85714285714286" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="50.714285714285715" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="283.9130434782609" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="37.142857142857146" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="283.9130434782609" cy="23.571428571428577" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="303.4782608695652" cy="23.571428571428577" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="342.60869565217394" cy="91.42857142857143" r="2" fill="#106cbc"/>
@@ -530,8 +530,8 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="225.2173913043478" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="244.7826086956522" y="77.85714285714286" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="264.3478260869565" y="50.714285714285715" fill="rgba(127, 127, 127, .8)">4</text>
-                                <text transform="translate(10,6)" x="283.9130434782609" y="10" fill="rgba(127, 127, 127, .8)">7</text>
+                                <text transform="translate(10,6)" x="264.3478260869565" y="37.142857142857146" fill="rgba(127, 127, 127, .8)">5</text>
+                                <text transform="translate(10,6)" x="283.9130434782609" y="23.571428571428577" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="303.4782608695652" y="23.571428571428577" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="342.60869565217394" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
@@ -2175,7 +2175,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.97m out of 222m repositories</span>
+                                    <span class="gh">ranked 1.97m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -2296,7 +2296,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.78m out of 222m repositories</span>
+                                    <span class="gh">ranked 1.78m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -2387,7 +2387,7 @@ Can often be found coding with a toaster, while my dog stares confusedly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2025, 13:11:03 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 14:09:35 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
