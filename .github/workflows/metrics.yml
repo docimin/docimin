@@ -61,6 +61,14 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
+          plugin_sponsors: yes
+          plugin_sponsors_past: yes
+          plugin_sponsors_sections: goal, list, about
+          plugin_sponsors_size: 24
+          plugin_sponsors_title: Sponsor Me!
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
           plugin_traffic: yes
-          repositories_affiliations: 
           repositories_forks: yes
